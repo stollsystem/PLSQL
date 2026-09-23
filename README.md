@@ -1,2 +1,2 @@
 # PLSQL
-Funções e procedures em linguagem PLSQL (Oracle)
+Funções e procedures em linguagem PLSQL
